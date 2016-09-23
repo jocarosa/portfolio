@@ -1,7 +1,7 @@
 #lineHeader{
     height:40px;
     background-color: #3E2723;
-     opacity: 0.6;   
+     opacity: 0.3;   
 }
 
 
@@ -50,22 +50,38 @@ img{
     font-weight: bold;
     width:200px;
 }
+#divResume{
+    
+}
+#divResume img{
+    width:1000px;
+    height:1300px;
+}
+#gitHubDiv{
+    opacity: 0.7;
+}
+#gitHubDiv img{
+    width:100px;
+    height:100px;
+}
 #navMenu li a:hover{
     color:black;
     background-color:orange;
    }
    
-#navMenu li:active{
-    color:black;
-}
+
  #listApis img{
-     width:60px;
-     height:60px;
+     width:55px;
+     height:55px;
  }
  #listApis li{
      border:1px solid black;
      color: white;
+    
  }
+ #listApis li:first-child { 
+    margin-top: 15px;
+}
 .toggler {
     
     width: 800px; 
