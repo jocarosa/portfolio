@@ -1,0 +1,81 @@
+#lineHeader{
+    height:40px;
+    background-color: #3E2723;
+     opacity: 0.6;   
+}
+
+
+body{
+    background-image: url('../img/body-background.png');
+    
+}
+img{
+    height:130px;
+    width: 200px;
+    margin-left: 60px;
+}
+#circleLeft{
+    background-image: url('../img/background.png');
+    margin:100px 0px 0px 80px;
+    width:350px;
+    border-radius: 270px;
+    height: 350px;
+    padding:10px 0px 0px 10px;
+    
+}
+#lineCenter{
+    float:left;
+    height:600px;
+    width:270px;
+    margin:-210px 0px 20px 10%;
+    background-image: url('../img/tie.png');
+    border-radius:10px;
+    opacity: 0.5;
+    
+    }
+#navMenu{
+    width:130px;
+    color:black;
+    margin:0px 0px 0px 40px;
+    
+}
+#navMenu li{
+    padding:5px;
+    font-family:monospace;
+    
+}
+#navMenu li a{
+    color:black;
+    font-size: 18px;
+    font-weight: bold;
+    width:200px;
+}
+#navMenu li a:hover{
+    color:black;
+    background-color:orange;
+   }
+   
+#navMenu li:active{
+    color:black;
+}
+ #listApis img{
+     width:60px;
+     height:60px;
+ }
+ #listApis li{
+     border:1px solid black;
+     color: white;
+ }
+.toggler {
+    
+    width: 800px; 
+    height: 250px; 
+     float:left;
+   
+    margin:-160px 0px 0px 0px;
+}
+  
+  #effect { width: 600px; height: 400px; padding: 0.4em; position: relative; background-color: #3E2723; opacity: 0.5 }
+  #effect h3 { margin: 0; padding: 0.4em; text-align: center; }   
+  
+  
